@@ -1,7 +1,7 @@
 import os
 import sys
 
-# 创建 目录
+# 创建目录
 output_dir = "output_files"
 if not os.path.exists(output_dir):
     os.makedirs(output_dir)
