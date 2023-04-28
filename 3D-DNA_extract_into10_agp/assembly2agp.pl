@@ -25,7 +25,7 @@ my $prefix="sc_$num\_";
 #>ptg000076l:::fragment_3 15 8316419
 #>ptg000076l:::fragment_4:::debris 16 500000
 #>ptg000076l:::fragment_5 17 1947665
-#
+##
 
 open IN,$assembly or die $!;
 while(<IN>){
